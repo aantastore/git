@@ -20,7 +20,7 @@
 </p>
 
 - 👼 My name is Wann 
-- 🗣️ I am 16 years old 
+- 🗣️ I am 15 years old 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
