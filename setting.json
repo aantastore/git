@@ -1,18 +1,11 @@
 {
-     "ownerNumber": ["6285640068416@s.whatsapp.net","6285640068416@s.whatsapp.net","6285640068416"],
-     "sessionName": "wann",
-     "ownerName": "WannAr Official",
-     "prefix" : ".",
-     "ppbot": "https://telegra.ph/file/3c777b1f32290b2359b54.jpg",
-     "qris": "https://i.ibb.co/3hczjqy/3118cab17727.jpg",
-     "fake": "「  Wann Store  」\nCreated By @WannStore",
-     "gamewaktu": 60,
-     "owner": ["6285640068416","6285640068416"],
-     "botName": "Wann Botz",
-     "lolkey": "WannOff",
-     "vhtearkey": "BELISENDIRI",
-     "zekskey": "NinoWangy",
-     "xteamkey": "FuzBot1",
-     "txtDonasi": "GoPay : GaHapal:(\nSaweeria : https://saweria.co/\nDana : 085640068416",
-     "gcount": 20
+     "prefix": ".",
+     "ownerNumber": "6281262411188@s.whatsapp.net",
+     "sessionName": "gura",
+     "ownerName": "Xynta store",
+     "owner": "6281262411188",
+     "botName": "Xynta Botz",
+     "lolkey": "GuraLol",
+     "pathImg": "./media/gura.jpeg",
+     "txtDonasi": "Gopay: 081262411188"
 }
